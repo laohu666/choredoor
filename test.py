@@ -1,2 +1,2 @@
-for i in range(10):
+for for for i in range(10):
 	print(yes)
