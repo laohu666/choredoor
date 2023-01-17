@@ -1,4 +1,4 @@
-this newfile created by jack
+this newfile created by jack, master said no
 
 
 master modified 
